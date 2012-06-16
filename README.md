@@ -1,0 +1,4 @@
+Predis
+======
+
+CakePHP Predis plugin
