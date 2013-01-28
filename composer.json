@@ -1,0 +1,19 @@
+{
+    "name": "wyrihaximus/predis",
+    "description": "Predis plugin for CakePHP",
+    "license": "MIT",
+    "keywords": [
+        "predis",
+        "cakephp"
+    ],
+    "authors": [
+        {
+            "name": "Cees-Jan Kiewiet",
+            "email": "ceesjank@gmail.com",
+            "homepage": "http://wyrihaximus.net/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}
