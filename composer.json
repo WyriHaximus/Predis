@@ -3,6 +3,7 @@
     "description": "Predis plugin for CakePHP",
     "license": "MIT",
     "keywords": [
+        "redis",
         "predis",
         "cakephp"
     ],
